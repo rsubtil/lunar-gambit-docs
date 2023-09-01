@@ -1,22 +1,22 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to Lunar's Gambit manual!
+=================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+This manual is intended both as a quick-resource explaining how the game
+works, as well as including more details about all it's mechanics if you
+want to know more.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   setup
+   quick-start
+   spies
+   accusations
+   capturing_bases
+
+.. toctree::
+   research
+   improvements
+

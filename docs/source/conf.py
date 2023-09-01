@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Lunar Gambit - Docs'
+copyright = '2023, Ricardo Subtil'
+author = 'Ricardo Subtil'
 
 release = '0.1'
 version = '0.1.0'
