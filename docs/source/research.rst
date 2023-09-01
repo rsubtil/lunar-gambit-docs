@@ -3,8 +3,6 @@ Research
 
 This page describes each tech available in the game, and what they do.
 
-You can also check this info displayed in a tree.
-
 .. warning::
    All this information is subject to be changed per match, in order to balance the match.
 
