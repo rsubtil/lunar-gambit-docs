@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Ricardo Subtil
+# This file is distributed under the same license as the Lunar Gambit - Docs
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lunar Gambit - Docs 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 14:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pt_PT\n"
+"Language-Team: pt_PT <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../improvements.rst:2
+msgid "Improvements"
+msgstr "Melhorias"
+
+#: ../../improvements.rst:4
+msgid ""
+"This page describes each improvement available in the game to build, and "
+"what they do."
+msgstr "Esta página descreve cada melhoria disponível no jogo para construir, e o que fazem."
+
+#: ../../improvements.rst:7
+msgid ""
+"All this information is subject to be changed per match, in order to "
+"balance the match."
+msgstr "Toda a informação aqui explícita está sujeita a ser alterada por partida, a fim de equilibrar a partida."
+
+#: ../../improvements.rst:11
+msgid "Research Center"
+msgstr "Research Center (Centro de Pesquisa)"
+
+#: ../../improvements.rst:12 ../../improvements.rst:19
+#: ../../improvements.rst:26
+msgid "Time to build = 180 turns (3 minutes)"
+msgstr "Tempo de construção = 180 turnos (3 minutos)"
+
+#: ../../improvements.rst:13 ../../improvements.rst:27
+#: ../../improvements.rst:34 ../../improvements.rst:41
+msgid "Upkeep = 1"
+msgstr "Custo de manutenção = 1"
+
+#: ../../improvements.rst:15
+msgid ""
+"A Research Center gives more space for your scientists to work,improving "
+"your base's science production by 1."
+msgstr "Um Centro de Pesquisa dá mais espaço para os teus cientistas trabalharem, melhorando a produção de ciência da base em 1."
+
+#: ../../improvements.rst:18
+msgid "Investment Center"
+msgstr "Investment Center (Centro de Investimento)"
+
+#: ../../improvements.rst:20 ../../improvements.rst:48
+#: ../../improvements.rst:55 ../../improvements.rst:62
+msgid "Upkeep = 0"
+msgstr "Custo de manutenção = 0"
+
+#: ../../improvements.rst:22
+msgid ""
+"An Investment Center gives more space for your bankers to work,improving "
+"your base's gold production by 1."
+msgstr "Um Centro de Investimento dá mais espaço para os teus banqueiros trabalharem, melhorando a produção de ouro da base em 1."
+
+#: ../../improvements.rst:25
+msgid "Logistics Center"
+msgstr "Logistics Center (Centro de Logística)"
+
+#: ../../improvements.rst:29
+msgid ""
+"A Logistics Center gives more space for your engineers to work,improving "
+"your base's material production by 1."
+msgstr "Um Centro de Logística dá mais espaço para os teus engenheiros trabalharem, melhorando a produção de materiais da base em 1."
+
+#: ../../improvements.rst:32
+msgid "Research & Development Division"
+msgstr "Research & Development Division (Divisão de Investigação & Desenvolvimento)"
+
+#: ../../improvements.rst:33 ../../improvements.rst:40
+#: ../../improvements.rst:54
+msgid "Time to build = 300 turns (5 minutes)"
+msgstr "Tempo de construção = 300 turnos (5 minutos)"
+
+#: ../../improvements.rst:36
+msgid ""
+"Establishes a dedicated Research & Development division,improving your "
+"base's science production by 2."
+msgstr "Estabelece uma divisão dedicada à Investigação & Desenvolvimento, melhorando a produção de ciência da base em 2."
+
+#: ../../improvements.rst:39
+msgid "Factory"
+msgstr "Factory (Fábrica)"
+
+#: ../../improvements.rst:43
+msgid ""
+"Gives your engineers a dedicated Factory to work under, improving your "
+"base's material production by 2."
+msgstr "Dá aos teus engenheiros uma Fábrica dedicada para trabalharem, melhorando a produção de materiais da base em 2."
+
+#: ../../improvements.rst:46
+msgid "Salary Boosts"
+msgstr "Salary Boosts (Aumentos Salariais)"
+
+#: ../../improvements.rst:47 ../../improvements.rst:61
+msgid "Time to build = 60 turns (1 minute)"
+msgstr "Tempo de construção = 60 turnos (1 minuto)"
+
+#: ../../improvements.rst:50
+msgid ""
+"Doubles the salaries from this base's units. This will double the unit "
+"maintenance cost from this base, but will improve the base's loyalty by "
+"100%."
+msgstr "Dupla os salários das unidades desta base. Isto irá duplicar o custo de manutenção das unidades desta base, mas irá aumentar a lealdade da base em 100%."
+
+#: ../../improvements.rst:53
+msgid "Stock Exchange"
+msgstr "Stock Exchange (Bolsa de Valores)"
+
+#: ../../improvements.rst:57
+msgid ""
+"Establishes a Stock Exchange inside your base, improving your base's gold"
+" production by 3."
+msgstr "Estabelece uma Bolsa de Valores dentro da tua base, melhorando a produção de ouro da base em 3."
+
+#: ../../improvements.rst:60
+msgid "Salary Cuts"
+msgstr "Salary Cuts (Cortes Salariais)"
+
+#: ../../improvements.rst:64
+msgid ""
+"Cuts all salaries from this base's units. This will remove all unit "
+"maintenance costs from this base, but will reduce the base's loyalty by "
+"75%."
+msgstr "Corta todos os salários das unidades desta base. Isto irá remover todos os custos de manutenção das unidades desta base, mas irá reduzir a lealdade da base em 75%."
+
+#: ../../improvements.rst:67
+msgid "Space Program"
+msgstr "Space Program (Programa Espacial)"
+
+#: ../../improvements.rst:68
+msgid "Time to build = 600 turns (10 minutes)"
+msgstr "Tempo de construção = 600 turnos (10 minutos)"
+
+#: ../../improvements.rst:69
+msgid "Upkeep = 2"
+msgstr "Custo de manutenção = 2"
+
+#: ../../improvements.rst:71
+msgid ""
+"Establishes a formal Space Program in your base, increasing your base's "
+"science output by 3."
+msgstr "Estabelece um Programa Espacial formal na tua base, aumentando a produção de ciência da base em 3."
+

@@ -1,0 +1,304 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Ricardo Subtil
+# This file is distributed under the same license as the Lunar Gambit - Docs
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lunar Gambit - Docs 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 16:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pt_PT\n"
+"Language-Team: pt_PT <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/spies.rst:2
+msgid "Spies"
+msgstr "Espiões"
+
+#: ../../source/spies.rst:4
+msgid ""
+"This page explains in details what you can do with your spies. They are "
+"one important element to master, as you can steal resources from players,"
+" and likewise try to find out who is stealing from you to recover your "
+"resources!"
+msgstr ""
+"Esta página explica em detalhe o que podes fazer com os teus espiões. São"
+" um elemento importante a dominar, pois podes roubar recursos de outros "
+"jogadores, e da mesma forma tentar descobrir quem te está a roubar para "
+"recuperares os teus recursos!"
+
+#: ../../source/spies.rst:7
+msgid "Movement"
+msgstr "Movimento"
+
+#: ../../source/spies.rst:9
+msgid ""
+"Spies can move during any phase, and they initially move at double rate "
+"of the public units."
+msgstr ""
+"Os espiões podem mover-se durante qualquer fase, e inicialmente movem-se "
+"ao dobro da velocidade das unidades públicas."
+
+#: ../../source/spies.rst:11
+msgid ""
+"When stopped, spies become completely invisible. When moving, they will "
+"reveal that movement to any enemy units players, but not reveal it's "
+"identity. When moving into bases or buildings, that movement is also "
+"never detectable."
+msgstr ""
+"Quando imóveis, os espiões tornam-se completamente invisíveis. Quando em "
+"movimento, revelam esse movimento a qualquer unidade inimiga, mas não "
+"revelam a sua identidade. Quando se movem para bases ou edifícios, esse "
+"movimento também nunca é detectável."
+
+#: ../../source/spies.rst:-1
+msgid "Spy movement"
+msgstr ""
+
+#: ../../source/spies.rst:17
+msgid "Finding spies"
+msgstr "Encontrar espiões"
+
+#: ../../source/spies.rst:19
+msgid ""
+"Since spy movement is detectable within your vision range, the game will "
+"automatically record these events during the passive phase, storing them "
+"in your messages panel. You can click on the notifications to point to "
+"the detected tile, allowing you to track the spy's movement. With some "
+"well positioned units, you can get quite some useful information!"
+msgstr ""
+"Como o movimento dum espião é detetável dentro do teu campo de visão, o "
+"jogo irá automaticamente registar esses eventos durante a fase passiva, "
+"avisando-te no teu painel de mensagens. Podes clicar nas notificações "
+"para apontar para a casa detetada, permitindo-te rastrear o movimento do "
+"espião. Com algumas unidades bem posicionadas, podes obter informações de"
+" movimento bastante úteis!"
+
+#: ../../source/spies.rst:-1
+msgid "Spy detection"
+msgstr ""
+
+#: ../../source/spies.rst:24
+msgid ""
+"To get more information, you can also check if any spy has recently used "
+"a particular transport by requesting a report. You could also ask around "
+"to see if someone else knows anything..."
+msgstr ""
+"Para obteres mais informações, também podes verificar se algum espião "
+"usou recentemente um transporte em particular, solicitando um relatório. "
+"Também podes perguntar por aí para ver se alguém sabe de alguma coisa..."
+
+#: ../../source/spies.rst:27
+msgid "Sabotages"
+msgstr "Sabotagens"
+
+#: ../../source/spies.rst:29
+msgid "Spies can do two types of sabotages:"
+msgstr "Os espiões podem fazer dois tipos de sabotagens:"
+
+#: ../../source/spies.rst:31
+msgid ""
+"**Defensive sabotage**: These actions merely give you information without"
+" affecting other players. While other players may know if someone has "
+"investigated them, they cannot act upon it. These actions, by default, "
+"take 15 minutos to complete."
+msgstr ""
+"**Sabotagem defensiva**: Estas ações dão-te apenas informações sem afetar"
+" outros jogadores. Embora os outros jogadores sejam alertados de alguém "
+"que os tenha investigado, não podem agir sobre isso. Estas ações demoram "
+"15 minutos a ser executadas."
+
+#: ../../source/spies.rst:32
+msgid ""
+"**Offensive sabotage**: These actions will impact other players, like "
+"stealing resources or informing of movements. If done on a player, that "
+"player will be notified something has happened. If they eventually figure"
+" out it was you, they can publicly accuse you, which could force you to "
+"lose a big chunk of your resources. These actions, by default, take 60 "
+"minutes to complete."
+msgstr ""
+"**Sabotagem ofensiva**: Estas ações afetam outros jogadores, como roubar "
+"recursos ou informar de movimentos. Se feito a um jogador, esse jogador "
+"será notificado de que algo aconteceu. Se eventualmente descobrirem que "
+"foste tu, podem acusar-te publicamente, o que poderia forçar-te a perder "
+"uma grande parte dos teus recursos. Estas ações demoram 60 minutos a ser "
+"executadas."
+
+#: ../../source/spies.rst:34
+msgid ""
+"While you can do as many defensive sabotages as you want, you can only do"
+" a total of 2 offensive sabotages per each spy phase. Furthermore, a spy "
+"cannot perform two sabotages in a row on the same place."
+msgstr ""
+"Embora possas fazer quantas sabotagens defensivas quiseres, só podes "
+"fazer um total de 2 sabotagens ofensivas por cada fase de espiões. Além "
+"disso, um espião não pode fazer duas sabotagens seguidas de qualquer tipo"
+" no mesmo lugar."
+
+#: ../../source/spies.rst:36
+msgid "There are sabotages available for all three major structures:"
+msgstr "Existem sabotagens disponíveis para as três principais estruturas:"
+
+#: ../../source/spies.rst:39
+msgid "Sabotaging bases"
+msgstr "Sabotar bases"
+
+#: ../../source/spies.rst:41
+msgid "Bases are large and tackle all resource types. Therefore, spies can:"
+msgstr ""
+"As bases são grandes e lidam com todos os tipos de recursos. Portanto, os"
+" espiões podem:"
+
+#: ../../source/spies.rst:43
+msgid ""
+"**Investigate resources** *(defensive)*: Obtain a report of the player's "
+"gains of a given one resource type's for the last 6 hours."
+msgstr ""
+"**Investigar recursos** *(defensivo)*: Obter um relatório dos ganhos do "
+"jogador de um dado tipo de recurso nas últimas 6 horas."
+
+#: ../../source/spies.rst:-1
+msgid "Sabotage investigate"
+msgstr ""
+
+#: ../../source/spies.rst:48
+msgid ""
+"**Steal resources** *(offensive)*: Steal a percentage of the player's "
+"given resource type. For science and gold, this is 20%, while for "
+"materials it's 10%."
+msgstr ""
+"**Roubar recursos** *(ofensivo)*: Roubar uma percentagem do tipo de "
+"recurso do jogador. Para ciência e ouro, é de 20%, enquanto que para "
+"materiais é de 10%."
+
+#: ../../source/spies.rst:-1
+msgid "Sabotage steal"
+msgstr ""
+
+#: ../../source/spies.rst:54
+msgid "Sabotaging buildings"
+msgstr "Saboar edifícios"
+
+#: ../../source/spies.rst:56
+msgid ""
+"The sabotages in buildings are the same for bases, but you're only able "
+"to investigate/steal the building's resource type. If it's a bank, you "
+"can only investigate/steal gold, for example."
+msgstr ""
+"As sabotagems em edifícios são as mesmas que nas bases, mas só podes "
+"investigar/roubar o tipo de recurso do edifício. Se for um banco, só "
+"podes investigar/roubar ouro, por exemplo."
+
+#: ../../source/spies.rst:59
+msgid "Sabotaging transports"
+msgstr "Sabotar transportes"
+
+#: ../../source/spies.rst:61
+msgid ""
+"Because transports are neutral entities, no player will be alerted of "
+"your actions on them. You can:"
+msgstr ""
+"Como os transportes são entidades neutras, nenhum jogador será alertado "
+"das tuas ações sobre eles. Podes:"
+
+#: ../../source/spies.rst:63
+msgid ""
+"**Obtain movement report** *(defensive)*: Obtain a report of the the last"
+" 10 movements done to this transport."
+msgstr ""
+"**Obter relatório de movimento** *(defensivo)*: Obter um relatório dos "
+"últimos 10 movimentos feitos para este transporte."
+
+#: ../../source/spies.rst:-1
+msgid "Sabotage movement"
+msgstr ""
+
+#: ../../source/spies.rst:68
+msgid ""
+"**Place wiretap** *(offensive)*: Place a wiretap on a transport. Whenever"
+" a unit moves to that transport, you'll be immediately notified of it. "
+"You can have only one wiretap placed on the map, and placing a new one "
+"will replace any previous one."
+msgstr ""
+"**Colocar escuta** *(ofensivo)*: Colocar uma escuta num transporte. "
+"Sempre que uma unidade se mova para esse transporte, serás imediatamente "
+"notificado. Só podes ter uma escuta colocada no mapa, e colocar uma nova "
+"irá substituir qualquer uma anterior."
+
+#: ../../source/spies.rst:-1
+msgid "Sabotage wiretap"
+msgstr ""
+
+#: ../../source/spies.rst:-1
+msgid "Sabotage wiretap notification"
+msgstr ""
+
+#: ../../source/spies.rst:77
+msgid "Being sabotaged"
+msgstr "Ser sabotado"
+
+#: ../../source/spies.rst:79
+msgid ""
+"When you are sabotaged, you'll receive a notification. If someone has "
+"only investigated you, there's nothing you can do. However, if someone "
+"has stolen from you, you can accuse someone! How do you find which one "
+"did it, though?"
+msgstr ""
+"Quando alguém te sabotar, irás receber uma notificação. Se alguém apenas "
+"te investigou, não há nada que possas fazer. No entanto, se alguém te "
+"roubou, podes acusar alguém! Mas como vais descobrir quem foi?"
+
+#: ../../source/spies.rst:81
+msgid ""
+"Use your spies to try to find out any foreign spies in your territory. "
+"Remember that your spies are invisible when stopped, so a few well "
+"planted spies can give you a good vision range, without the other player "
+"being aware of your presence."
+msgstr ""
+"Usa os teus espiões para tentar descobrir quaisquer espiões estrangeiros "
+"no teu território. Lembra-te que os teus espiões são invisíveis quando "
+"parados, por isso alguns espiões bem plantados podem dar-te uma boa "
+"visão, sem que o outro jogador esteja ciente da tua presença sequer."
+
+#: ../../source/spies.rst:82
+msgid ""
+"Be on the lookout for transports. Check if spies seem to be running to "
+"there, and find where they go next."
+msgstr "Está atento aos transportes. Verifica se os espiões parecem estar a fugir para lá, e descobre para onde vão a seguir."
+
+#: ../../source/spies.rst:83
+msgid "Ask around! Maybe someone else has seen or knows something."
+msgstr "Pergunta! Talvez alguém tenha visto ou saiba de alguma coisa."
+
+#: ../../source/spies.rst:85
+msgid ""
+"When you're confident you know who did it, you can accuse them. If you're"
+" right, you'll get back a hefty percentage of the accused's resources. If"
+" you're wrong though, you'll be the one paying them. Be careful!"
+msgstr "Quando tiveres a certeza de quem foi, podes acusá-lo. Se estiveres certo, receberás de volta uma grande percentagem dos recursos do acusado. Se estiveres errado, serás tu a pagar-lhe. Tem cuidado!"
+
+#: ../../source/spies.rst:87
+msgid "More info on the process can be found in the :ref:`accusations` page."
+msgstr "Mais informações sobre este processo podem ser encontradas na página :ref:`accusations`."
+
+#~ msgid ""
+#~ "**Offensive sabotage**: These actions will "
+#~ "impact other players, like stealing "
+#~ "resources or informing of movements. If"
+#~ " done on a player, that player "
+#~ "will be notified something has happened."
+#~ " If they eventually figure out it "
+#~ "was you, they can publicly accuse "
+#~ "you, which could force you to lose"
+#~ " a big chunk of your resources."
+#~ msgstr ""
+

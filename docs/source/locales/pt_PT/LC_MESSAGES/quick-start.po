@@ -1,0 +1,503 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Ricardo Subtil
+# This file is distributed under the same license as the Lunar Gambit - Docs
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lunar Gambit - Docs 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 15:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pt_PT\n"
+"Language-Team: pt_PT <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/quick-start.rst:2
+msgid "Quick-start"
+msgstr "Começar a jogar"
+
+#: ../../source/quick-start.rst:4
+msgid ""
+"This page serves as a quick-guide for your first session. It will cover "
+"the basics of the game, and give you a few tips to get started."
+msgstr ""
+"Esta página serve como um guia rápido para a tua primeira sessão. Irá "
+"cobrir os básicos do jogo, e dar-te algumas dicas para começar."
+
+#: ../../source/quick-start.rst:7
+msgid "Controls"
+msgstr "Controlos"
+
+#: ../../source/quick-start.rst:9
+msgid "Left click on the mouse to select units."
+msgstr "Usa o botão esquerdo do rato para selecionar unidades."
+
+#: ../../source/quick-start.rst:-1
+msgid "Selection"
+msgstr ""
+
+#: ../../source/quick-start.rst:14
+msgid ""
+"Left click and drag on the main window to move the camera around. You can"
+" also use the Arrow Keys."
+msgstr ""
+"Clica e arrasta com o botão esquerdo do rato no ecrã principal para mover"
+" a câmara. Também podes usar as teclas de setas."
+
+#: ../../source/quick-start.rst:-1
+msgid "Moving the camera"
+msgstr ""
+
+#: ../../source/quick-start.rst:19
+msgid ""
+"With a unit selected, right click and drag to move it on the map. While "
+"moving, you'll see the expected time of arrival. You can also click on "
+"the Move option in the unit's menu."
+msgstr ""
+"Com uma unidade selecionada, clica com o botão direito do rato e arrasta "
+"para a mover no mapa. Enquanto te moves, verás o tempo de chegada "
+"esperado. Também podes clicar na opção Move (Mover) no menu da unidade."
+
+#: ../../source/quick-start.rst:-1
+msgid "Moving a unit"
+msgstr ""
+
+#: ../../source/quick-start.rst:24
+msgid ""
+"To select a base, click on it to bring it's menu. You can move between "
+"your bases, change production, and sell units/improvements if needed."
+msgstr ""
+"Para selecionar uma base, clica nela para abrir o seu menu. Podes mover "
+"entre as tuas bases, mudar a produção, e vender unidades/melhorias se "
+"necessário."
+
+#: ../../source/quick-start.rst:-1
+msgid "Selecting a base"
+msgstr ""
+
+#: ../../source/quick-start.rst:29
+msgid ""
+"To select units inside a base, click on it, then double-click the unit on"
+" the lower right corner."
+msgstr ""
+"Para selecionar uma unidade dentro duma base, clica nela, e depois clica "
+"duas vezes na unidade no canto inferior direito."
+
+#: ../../source/quick-start.rst:-1
+msgid "Selecting units inside a base"
+msgstr ""
+
+#: ../../source/quick-start.rst:35
+msgid "Phases"
+msgstr "Fases"
+
+#: ../../source/quick-start.rst:37
+msgid "Lunar Gambit runs under two distinct phases:"
+msgstr "O Lunar Gambit irá decorrer em duas fases distintas:"
+
+#: ../../source/quick-start.rst:39
+msgid ""
+"**Strategy phase** - During this phase, the game behaves like a 4X. This "
+"is the mode you'll be playing on the 20-30 minutes session. In this mode,"
+" your focus should be in capturing bases and buildings, training units, "
+"building improvements, and researching technologies. You can move all "
+"units, but your spies cannot do sabotages. The server will process turns "
+"every second, making actions and movements take a few minutes to "
+"complete."
+msgstr ""
+"**Fase de estratégia** - Durante esta fase, o jogo comporta-se como um "
+"4X. Este é o modo em que irás jogar na sessão de 20-30 minutos. Neste "
+"modo, o teu foco deve ser capturar bases e edifícios, treinar unidades, "
+"construir melhorias, e pesquisar tecnologias. Podes mover todas as "
+"unidades, mas os teus espiões não podem fazer sabotagens ainda. O "
+"servidor irá processar os turnos a cada segundo, fazendo com que as ações"
+" e movimentos demorem alguns minutos a completar."
+
+#: ../../source/quick-start.rst:40
+msgid ""
+"**Spy phase** - This phase will be turned on during breaks between "
+"sessions, running for 48 hours. During this phase, public unit movement, "
+"building units/improvements, and research are disabled (although your "
+"resources keep updating). Only the spies are enabled, and they can now "
+"perform sabotages. The server will process turns every minute, making "
+"actions and movements now potentially taking hours to complete."
+msgstr ""
+"**Fase de espionagem** - Esta fase será ativada durante as pausas entre "
+"sessões, decorrendo durante 48 horas. Durante esta fase, o movimento de "
+"unidades públicas, construção de unidades/melhorias, e pesquisas são "
+"desativados (embora os teus recursos continuem a subir). Apenas os "
+"espiões estão ativos, e agora podem fazer sabotagens. O servidor irá "
+"processar os turnos a cada minuto, fazendo com que as ações e movimentos "
+"agora possam demorar horas a completar."
+
+#: ../../source/quick-start.rst:42
+msgid ""
+"During each session/strategy phase, there will be a materials objective "
+"to reach. When a player reaches this goal between 20 to 30 minutes, the "
+"session will end early."
+msgstr ""
+"Durante cada sessão/fase de estratégia, haverá um objetivo de materiais a"
+" atingir. Quando um jogador atingir este objetivo entre 20 a 30 minutos, "
+"a sessão irá terminar mais cedo."
+
+#: ../../source/quick-start.rst:-1 ../../source/quick-start.rst:45
+msgid "Units"
+msgstr "Unidades"
+
+#: ../../source/quick-start.rst:47
+msgid ""
+"There are 4 types of units in the game. You can train more public units "
+"in bases, but not spies. From left to right:"
+msgstr ""
+"Existem 4 tipos de unidades no jogo. Podes treinar mais unidades públicas"
+" em bases, mas não podes treinar mais espiões. Da esquerda para a "
+"direita:"
+
+#: ../../source/quick-start.rst:54
+msgid ""
+"**Public units**: These units only move during the strategy phase, and "
+"are visible to all players. They are used to capture bases and buildings,"
+" and to defend your territory."
+msgstr ""
+"**Unidades públicas**: Estas unidades apenas se movem durante a fase de "
+"estratégia, e são visíveis a todos os jogadores. São usadas para capturar"
+" bases e edifícios, e para defender o teu território."
+
+#: ../../source/quick-start.rst:53
+msgid "**Scientists**: Focuses on research, converting buildings to universities."
+msgstr ""
+"**Cientistas**: Foca-se na pesquisa, convertendo edifícios em "
+"universidades."
+
+#: ../../source/quick-start.rst:54
+msgid "**Bankers**: Focuses on economy, converting buildings to banks."
+msgstr "**Banqueiros**: Foca-se na economia, convertendo edifícios em bancos."
+
+#: ../../source/quick-start.rst:55
+msgid ""
+"**Engineers**: Focuses on production of materials, converting buildings "
+"to factories."
+msgstr ""
+"**Engenheiros**: Foca-se na produção de materiais, convertendo edifícios "
+"em fábricas."
+
+#: ../../source/quick-start.rst:56
+msgid ""
+"**Spies**: These units only move during the spy phase, and are nearly "
+"invisible to all players. They are used to sabotage enemy units and "
+"buildings."
+msgstr ""
+"**Espiões**: Estas unidades apenas se movem durante a fase de espionagem,"
+" e são quase invisíveis a todos os jogadores. São usadas para sabotar "
+"unidades e edifícios inimigos."
+
+#: ../../source/quick-start.rst:58
+msgid ""
+"While all three public units are visible everywhere on the map, spies "
+"will conceal their position and identity."
+msgstr ""
+"Enquanto que todas as três unidades públicas são visíveis em todo o mapa,"
+" os espiões irão esconder a sua posição e identidade."
+
+#: ../../source/quick-start.rst:60
+msgid ""
+"When stopped, spies become completely invisible. When moving, they will "
+"reveal that movement to any enemy units players, but not reveal it's "
+"identity. When moving into bases or buildings, that movement is also "
+"never detectable."
+msgstr ""
+"Quando imóveis, os espiões tornam-se completamente invisíveis. Quando em "
+"movimento, irão revelar esse movimento a qualquer unidade inimiga, mas "
+"não irão revelar a sua identidade. Quando se movem para bases ou "
+"edifícios, esse movimento também nunca é detetável."
+
+#: ../../source/quick-start.rst:-1
+msgid "Spy movement"
+msgstr ""
+
+#: ../../source/quick-start.rst:67
+msgid "Bases & buildings"
+msgstr "Bases & edifícios"
+
+#: ../../source/quick-start.rst:69
+msgid "Scattered throughout the map, you'll find bases and buildings."
+msgstr "Espalhados por todo o mapa, irás encontrar bases e edifícios."
+
+#: ../../source/quick-start.rst:71
+msgid ""
+"Bases produce all three kinds of resources, and allow you to train new "
+"units, as well as build improvements. Capturing already conquered bases "
+"is a challenge which will require you to \"steal\" them from enemy "
+"players."
+msgstr ""
+"As bases produzem os três tipos de recursos, e permitem-te treinar novas "
+"unidades, assim como construir melhorias. Capturar bases já conquistadas "
+"é um desafio que irá requerer que as \"roubes\" aos jogadores inimigos."
+
+#: ../../source/quick-start.rst:-1
+msgid "Base"
+msgstr ""
+
+#: ../../source/quick-start.rst:76
+msgid ""
+"Buildings, on the other hand, can only produce one type of resource, but "
+"they are plentiful and fast to capture. All it takes is for a unit to "
+"move on top of it to capture and convert it to the unit's resource type. "
+"It will show a color underneath, indicating which player owns it."
+msgstr ""
+"Os edifícios, por outro lado, apenas podem produzir um tipo de recurso, "
+"mas são abundantes e rápidos de capturar. Tudo o que é preciso é que uma "
+"unidade se mova para cima deste para o capturar e converter para o tipo "
+"de recurso da unidade. Irá mostrar uma cor por baixo, indicando qual o "
+"jogador que o possui."
+
+#: ../../source/quick-start.rst:-1
+msgid "Building"
+msgstr ""
+
+#: ../../source/quick-start.rst:81
+msgid "There are three types of buildings, corresponding to each public unit:"
+msgstr "Existem três tipos de edifícios, correspondendo a cada unidade pública:"
+
+#: ../../source/quick-start.rst:-1
+msgid "Building types"
+msgstr ""
+
+#: ../../source/quick-start.rst:86
+msgid "**University**: Produces 1 science, created by scientists."
+msgstr "**Universidade**: Produz 1 de ciência, criada por cientistas."
+
+#: ../../source/quick-start.rst:87
+msgid "**Bank**: Produces 1 money, created by bankers."
+msgstr "**Banco**: Produz 1 de dinheiro, criado por banqueiros."
+
+#: ../../source/quick-start.rst:88
+msgid "**Factory**: Produces 1 material, created by engineers."
+msgstr "**Fábrica**: Produz 1 de material, criada por engenheiros."
+
+#: ../../source/quick-start.rst:90
+msgid ""
+"In the beginning, all bases and buildings are unoccupied. They'll look "
+"like gray buildings, and bases have labels on them. In particular, "
+"unoccupied bases can be immediately captured by moving in public units."
+msgstr ""
+"No início da partida, todas as bases e edifícios estão desocupados. Irão "
+"aparecer como edifícios cinzentos, e as bases têm nomes associados. Em "
+"particular, as bases desocupadas podem ser imediatamante capturadas "
+"movendo uma unidades pública para elas."
+
+#: ../../source/quick-start.rst:-1
+msgid "Unoccupied base"
+msgstr ""
+
+#: ../../source/quick-start.rst:96
+msgid "Transports"
+msgstr "Transportes"
+
+#: ../../source/quick-start.rst:98
+msgid ""
+"Transports are special, neutral buildings that allow your spies to "
+"quickly move in-between them instantly. They always have a label which "
+"ends in \"Station\"."
+msgstr ""
+"Os transportes são edifícios neutros e especiais, que permitem que os "
+"teus espiões se movam rapidamente entre eles instantaneamente. Têm sempre"
+" um nome que termina em \"Station\" (Estação)"
+
+#: ../../source/quick-start.rst:-1
+msgid "Transport"
+msgstr ""
+
+#: ../../source/quick-start.rst:103
+msgid ""
+"Use these to position your spies quickly around the terrain. But keep in "
+"mind: unit movements in transports are **recorded**, and your opponents "
+"can obtain these reports to figure out if you've been using them!"
+msgstr ""
+"Usa os transportes para posicionar os teus espiões rapidamente por todo o"
+" mapa. Mas cuidado: os movimentos de unidades em transportes são "
+"**gravados**, e os teus oponentes podem obter estes relatórios para "
+"descobrir se os tens utilizado!"
+
+#: ../../source/quick-start.rst:106
+msgid "Resources"
+msgstr "Recursos"
+
+#: ../../source/quick-start.rst:108
+msgid "There are 3 types of resources in the game:"
+msgstr "Existem 3 tipos de recursos no jogo:"
+
+#: ../../source/quick-start.rst:110
+msgid ""
+"**Science**: Used to research new technologies, giving you advantages "
+"over your opponents."
+msgstr ""
+"**Ciência**: Usada para pesquisar novas tecnologias, dando-te vantagens "
+"sobre os teus oponentes."
+
+#: ../../source/quick-start.rst:111
+msgid "**Money**: Used to sustain all unit and improvement costs."
+msgstr ""
+"**Dinheiro**: Usado para sustentar todos os custos de unidades e "
+"melhorias."
+
+#: ../../source/quick-start.rst:112
+msgid ""
+"**Materials**: Your game \"score\". The player with the most materials in"
+" the end will win!"
+msgstr ""
+"**Materiais**: A tua \"pontuação\" no jogo. O jogador com mais materiais "
+"no final será o vencedor!"
+
+#: ../../source/quick-start.rst:114
+msgid ""
+"While your materials are ultimately the most important resource to win, "
+"don't neglect the other ones! If you fall behind on science, your "
+"opponents will start to get ahead of you in technology, producing more "
+"resources. If you fall behind on money and enter negative values, "
+"buildings and units will randomly and forcibly be sold."
+msgstr ""
+"Embora os teus materiais sejam o recurso mais importante para vencer, não"
+" negligencies os outros! Se ficares para trás na ciência, os teus "
+"oponentes irão começar a ficar à tua frente em tecnologia, produzindo "
+"mais recursos. Se ficares para trás no dinheiro e entrares em valores "
+"negativos, edifícios e unidades serão aleatoriamente e forçadamente "
+"vendidos."
+
+#: ../../source/quick-start.rst:116
+msgid "All of these resources can be traded amongst players, including bases!"
+msgstr "Todos estes recursos podem ser trocados entre jogadores, incluindo bases!"
+
+#: ../../source/quick-start.rst:-1 ../../source/quick-start.rst:119
+msgid "Research"
+msgstr "Investigação"
+
+#: ../../source/quick-start.rst:121
+msgid ""
+"Research allows you to stay competitively viable. They provide you with "
+"various benefits:"
+msgstr ""
+"A investigação permite manteres-te competitivamente viável. Irá trazer-te"
+" vários benefícios:"
+
+#: ../../source/quick-start.rst:123
+msgid "Increase resource production in your buildings."
+msgstr "Aumentar a produção de recursos nos teus edifícios."
+
+#: ../../source/quick-start.rst:124
+msgid ""
+"Allow improvements to be built in your bases, increasing their resource "
+"production."
+msgstr ""
+"Permitir a construção de melhorias nas tuas bases, aumentando a sua "
+"produção de recursos."
+
+#: ../../source/quick-start.rst:125
+msgid "Reducing maintenance costs."
+msgstr "Reduzir custos de manutenção."
+
+#: ../../source/quick-start.rst:126
+msgid "Enable game features and improve units."
+msgstr "Ativar mecanismos de jogo e melhorar as tuas unidades."
+
+#: ../../source/quick-start.rst:128
+msgid ""
+"Each technology requires you to spend a determined number of science "
+"points. Whenever you can, research away!"
+msgstr ""
+"Cada tecnologia requer que gastes um número determinado de pontos de "
+"ciência. Sempre que puderes, investiga!"
+
+#: ../../source/quick-start.rst:134
+msgid "Final tips"
+msgstr "Dicas finais"
+
+#: ../../source/quick-start.rst:136
+msgid ""
+"While the game moves rather fast during a session, you'll have much more "
+"time to think and plan when waiting for the next session. To make sure "
+"you have a good first session, here are a few tips:"
+msgstr ""
+"Embora o jogo irá decorrer com alguma velocidade durante uma sessão, "
+"terás muito mais tempo para pensar e planear enquanto esperas pela "
+"próxima sessão. Para teres a certeza que tens uma boa primeira sessão, "
+"aqui estão algumas dicas:"
+
+#: ../../source/quick-start.rst:138
+msgid ""
+"Try to occupy 3 to 4 bases. You should have at least one base very near "
+"you that shouldn't be a problem to capture, but for the remainder ones, "
+"other players may swoop in and take them if you don't act fast!"
+msgstr ""
+"Tenta ocupar entre 3 a 4 bases. Deves ter pelo menos uma base muito perto"
+" de ti que não deverá ser um problema para capturar, mas para as "
+"restantes, outros jogadores podem aparecer e capturá-las se não agires "
+"depressa!"
+
+#: ../../source/quick-start.rst:139
+msgid ""
+"Try to occupy all buildings around your territory. They are very fast to "
+"capture as you only need to move a public unit over it. Capturing enemy "
+"buildings is also fast, but careful with how you want to begin your "
+"relationships with them!"
+msgstr ""
+"Tenta ocupar todos os edifícios à volta do teu território. São muito "
+"rápidos de capturar, pois apenas precisas de mover uma unidade pública "
+"por cima deles. Capturar edifícios inimigos também é rápido, mas tem "
+"cuidado em como queres começar as tuas relações com os teus oponentes!"
+
+#: ../../source/quick-start.rst:140
+msgid ""
+"Try to get at least all of the 3 first technologies, plus 2 subsequent "
+"techs. These will provide you improvements to build, and increase "
+"building production for \"free\"!"
+msgstr ""
+"Tenta obter pelo menos as 3 primeiras tecnologias, mais 2 tecnologias "
+"subsequentes. Estas irão providenciar-te melhorias para construir, e "
+"aumentar a produção de edifícios \"gratuitamente\""
+
+#: ../../source/quick-start.rst:141
+msgid ""
+"While your spies cannot do sabotages yet, you can move them during this "
+"phase. Position them in interesting spots so you can start the spy phase "
+"already prepared."
+msgstr ""
+"Embora os teus espiões não possam fazer sabotagens ainda, podes movê-los "
+"durante esta fase. Posiciona-os em locais interessantes para que possas "
+"começar a fase de espionagem já preparado."
+
+#: ../../source/quick-start.rst:142
+msgid ""
+"Try to get in contact with your neighboring players, establishing initial"
+" relationships. Being overly agressive early on will likely not go well "
+"in the long run. Try to find a balance between being friendly and being "
+"competitive. Remember, there's only one winner in the end, but to get "
+"there, you'll need to know when to cooperate and when to sabotage."
+msgstr ""
+"Tenta entrar em contacto com os teus oponentes vizinhos, estabelecendo "
+"relações iniciais. Ser demasiado agressivo no início provavelmente não "
+"irá correr bem a longo prazo. Tenta encontrar um equilíbrio entre ser "
+"amigável e ser competitivo. Lembra-te, só há um vencedor no final, mas "
+"para lá chegar, terás de saber quando é para cooperar e quando deves "
+"sabotar."
+
+#: ../../source/quick-start.rst:143
+msgid ""
+"Do **not** neglect your economy. If you end the session losing money each"
+" turn, there is nothing you can do to gain more money during the spy "
+"phase, and if you run out of money, the game will start selling "
+"improvements and units!"
+msgstr ""
+"**Não te esqueças** da tua economia. Se terminares esta sessão a perder "
+"dinheiro a cada turno, não há nada que possas fazer para ganhar mais "
+"dinheiro durante a fase de espionagem, e se ficares sem dinheiro, o jogo "
+"irá começar a vender melhorias e unidades!"
+

@@ -22,12 +22,12 @@ You'll need to click on **Connect to network game**, leading you to the server s
 
 - **Connect**: ``4xsocialdeduction.vps.tecnico.ulisboa.pt``
 - **Port**: enter the port number you were given
-- **Username**: enter your username
+- **Username**: enter your username, which is your color, in lowercase (e.g. ``purple``)
 
 .. image:: assets/server_menu.png
    :alt: Server screen
 
-After entering this information, click on **Connect**. If the connection was successfull, it will now ask for your password, which is your unique identifier. After that, you should be able to login to the game server and join the match.
+After entering this information, click on **Connect**. If the connection was successfull, it will now ask for your password. After that, you should be able to login to the game server and join the match.
 
 .. image:: assets/gameplay.png
    :alt: Game screen

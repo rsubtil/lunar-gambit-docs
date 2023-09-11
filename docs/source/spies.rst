@@ -29,7 +29,7 @@ Sabotages
 Spies can do two types of sabotages:
 
 - **Defensive sabotage**: These actions merely give you information without affecting other players. While other players may know if someone has investigated them, they cannot act upon it. These actions, by default, take 15 minutos to complete.
-- **Offensive sabotage**: These actions will impact other players, like stealing resources or informing of movements. If done on a player, that player will be notified something has happened. If they eventually figure out it was you, they can publicly accuse you, which could force you to lose a big chunk of your resources.
+- **Offensive sabotage**: These actions will impact other players, like stealing resources or informing of movements. If done on a player, that player will be notified something has happened. If they eventually figure out it was you, they can publicly accuse you, which could force you to lose a big chunk of your resources. These actions, by default, take 60 minutes to complete.
 
 While you can do as many defensive sabotages as you want, you can only do a total of 2 offensive sabotages per each spy phase. Furthermore, a spy cannot perform two sabotages in a row on the same place.
 
@@ -78,7 +78,7 @@ Being sabotaged
 
 When you are sabotaged, you'll receive a notification. If someone has only investigated you, there's nothing you can do. However, if someone has stolen from you, you can accuse someone! How do you find which one did it, though?
 
-- Use your spies to try to find out any foreign spies in your territory. Remember that your spies are invisible when stopped, so a few well planted spies can give you a good vision range.
+- Use your spies to try to find out any foreign spies in your territory. Remember that your spies are invisible when stopped, so a few well planted spies can give you a good vision range, without the other player being aware of your presence.
 - Be on the lookout for transports. Check if spies seem to be running to there, and find where they go next.
 - Ask around! Maybe someone else has seen or knows something.
 

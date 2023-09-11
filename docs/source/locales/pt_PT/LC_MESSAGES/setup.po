@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Ricardo Subtil
+# This file is distributed under the same license as the Lunar Gambit - Docs
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lunar Gambit - Docs 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 16:06+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pt_PT\n"
+"Language-Team: pt_PT <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/setup.rst:2
+msgid "Setup"
+msgstr "Setup"
+
+#: ../../source/setup.rst:7
+msgid "Download"
+msgstr "Download"
+
+#: ../../source/setup.rst:9
+msgid ""
+"Lunar Gambit is a modification done to the `freeciv21 "
+"<https://github.com/longturn/freeciv21>`_ project by `Longturn "
+"<https://longturn.net/>`_, which in turn is a modification from the "
+"original `freeciv <https://github.com/freeciv>`_ project. It's source "
+"code is available publicly under a GPL3 license at `freeciv21-spaceRace "
+"<https://github.com/rsubtil/freeciv21-spaceRace>`_."
+msgstr ""
+"O Lunar Gambit é uma modificação feita ao projeto `freeciv21 "
+"<https://github.com/longturn/freeciv21>`_ do `Longturn "
+"<https://longturn.net/>`_, que por sua vez é uma modificação do projeto "
+"original `freeciv <https://github.com/freeciv>`_. O seu código fonte está"
+" disponível publicamente sob uma licença GPL3 em `freeciv21-spaceRace "
+"<https://github.com/rsubtil/freeciv21-spaceRace>`_."
+
+#: ../../source/setup.rst:11
+msgid ""
+"To download the project, head to the `Releases "
+"<https://github.com/rsubtil/lunar-gambit-docs/releases>`_ tab and "
+"download the latest release. Currently, there are builds for Windows, "
+"macOS (Intel-x86 only), and Linux (Ubuntu ``.deb`` package)."
+msgstr ""
+"Para descarregar o projeto, vai à aba `Releases "
+"<https://github.com/rsubtil/lunar-gambit-docs/releases>`_ e descarrega a "
+"última versão. Atualmente, existem builds para Windows, macOS (Intel-x86 "
+"apenas), e Linux (pacote ``.deb`` para Ubuntu)."
+
+#: ../../source/setup.rst:14
+msgid "Joining in"
+msgstr "Entrar na partida"
+
+#: ../../source/setup.rst:16
+msgid "When you open Lunar Gambit, you'll be greeted with the following screen:"
+msgstr "Quando abres o Lunar Gambit, terás o seguinte ecrã:"
+
+#: ../../source/setup.rst:-1
+msgid "Main menu"
+msgstr ""
+
+#: ../../source/setup.rst:21
+msgid ""
+"You'll need to click on **Connect to network game**, leading you to the "
+"server screen. The server URL should be auto-filled, otherwise enter the "
+"following data:"
+msgstr ""
+"Clica em **Connect to network game** (Ligar-se a um jogo em rede), o que "
+"te leva ao ecrã do servidor. O URL do servidor deverá estar preenchido "
+"automaticamente. Caso contrário, insere os seguintes dados:"
+
+#: ../../source/setup.rst:23
+msgid "**Connect**: ``4xsocialdeduction.vps.tecnico.ulisboa.pt``"
+msgstr ""
+
+#: ../../source/setup.rst:24
+msgid "**Port**: enter the port number you were given"
+msgstr "**Port**: introduz o número da porta que te foi dado"
+
+#: ../../source/setup.rst:25
+msgid ""
+"**Username**: enter your username, which is your color, in lowercase "
+"(e.g. ``purple``)"
+msgstr "**Username**: introduz o teu nome de utilizador, que é a tua cor, em inglês, em minúsculas (por exemplo, ``purple``)"
+
+#: ../../source/setup.rst:-1
+msgid "Server screen"
+msgstr ""
+
+#: ../../source/setup.rst:30
+msgid ""
+"After entering this information, click on **Connect**. If the connection "
+"was successfull, it will now ask for your password. After that, you "
+"should be able to login to the game server and join the match."
+msgstr ""
+"Depois de introduzires esta informação, clica em **Connect** (Ligar). Se "
+"a ligação for bem sucedida, uma password será pedida. Depois disso, "
+"deverás conseguir entrar no servidor e na partida."
+
+#: ../../source/setup.rst:-1
+msgid "Game screen"
+msgstr ""
+
+#: ../../source/setup.rst:37
+msgid ""
+"The default font shipped with the game for Windows and macOS can be hard "
+"to read. To change it, go to ``Options`` / ``Game > Interface Options`` "
+"-> ``Font`` and adjust them to your liking."
+msgstr ""
+"A fonte de texto predefinida que vem com o jogo para Windows e macOS pode"
+" ser difícil de ler. Para a mudar, vai a ``Options`` / ``Game > Interface"
+" Options`` -> ``Font`` e ajusta-a ao teu gosto."
+
+#: ../../source/setup.rst:40
+msgid "Interface"
+msgstr "Interface"
+
+#: ../../source/setup.rst:-1
+msgid "Main Interface"
+msgstr ""
+
+#: ../../source/setup.rst:45
+msgid ""
+"**1**: **Top Bar**: This bar lets you switch to the various info screens "
+"available."
+msgstr ""
+"**1**: **Barra Superior**: Esta barra permite-te mudar para os vários "
+"ecrãs de informação disponíveis."
+
+#: ../../source/setup.rst:46
+msgid ""
+"**2**: **Chat Widget**: This is where communication in game will take "
+"place. You can resize and move this element to your liking."
+msgstr ""
+"**2**: **Caixa de Chat**: É aqui que a comunicação no jogo irá ocorrer. "
+"Podes redimensionar e mover este elemento ao teu gosto."
+
+#: ../../source/setup.rst:47
+msgid ""
+"**3**: **Main Window**: This is where all the action will occur, where "
+"you select and move units, and where you'll see the map."
+msgstr ""
+"**3**: **Janela Principal**: É aqui que toda a ação irá ocorrer, onde "
+"selecionas e moves unidades, e onde verás o mapa."
+
+#: ../../source/setup.rst:48
+msgid ""
+"**4**: **Unit Bar**: When a unit is selected, this bar shows up, showing "
+"you all the available actions to perform."
+msgstr ""
+"**4**: **Barra de Unidade**: Quando uma unidade é selecionada, esta barra"
+" aparece, mostrando-te todas as ações disponíveis para realizar."
+
+#: ../../source/setup.rst:49
+msgid ""
+"**5**: **Minimap**: This is a small version of the map, which you can use"
+" to navigate the map. You can also use it to move the main window around,"
+" and zoom in/out."
+msgstr ""
+"**5**: **Minimapa**: Esta é uma versão pequena do mapa, que podes usar "
+"para navegar pelo mapa. Podes também usá-lo para mover a janela "
+"principal, e fazer zoom in/out."
+
+#~ msgid "**Username**: enter your username"
+#~ msgstr ""
+

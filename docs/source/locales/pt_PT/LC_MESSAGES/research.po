@@ -1,0 +1,457 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Ricardo Subtil
+# This file is distributed under the same license as the Lunar Gambit - Docs
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lunar Gambit - Docs 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 14:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pt_PT\n"
+"Language-Team: pt_PT <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../research.rst:2
+msgid "Research"
+msgstr "Investigação"
+
+#: ../../research.rst:4
+msgid "This page describes each tech available in the game, and what they do."
+msgstr "Esta página descreve cada tecnologia disponível no jogo, e o que fazem."
+
+#: ../../research.rst:7
+msgid ""
+"All this information is subject to be changed per match, in order to "
+"balance the match."
+msgstr "Toda esta informação está sujeita a ser alterada por partida, de forma a equilibrar a partida."
+
+#: ../../research.rst:10
+msgid "Research Centers"
+msgstr "Research Centers (Centros de Investigação)"
+
+#: ../../research.rst:11 ../../research.rst:18 ../../research.rst:25
+msgid "Requisites: None"
+msgstr "Requisitos: Nenhum"
+
+#: ../../research.rst:12 ../../research.rst:26
+msgid "Cost: 350"
+msgstr "Custo: 350"
+
+#: ../../research.rst:14
+msgid ""
+"Allows the construction of Research Centers on bases, increasing it's "
+"science output."
+msgstr "Permite a construção de Centros de Investigação em bases, aumentando a sua produção de ciência."
+
+#: ../../research.rst:17
+msgid "Investment Centers"
+msgstr "Investment Centers (Centros de Investimento)"
+
+#: ../../research.rst:19
+msgid "Cost: 250"
+msgstr "Custo: 250"
+
+#: ../../research.rst:21
+msgid ""
+"Allows the construction of Investment Centers on bases, increasing it's "
+"gold output."
+msgstr "Permite a construção de Centros de Investimento em bases, aumentando a sua produção de ouro."
+
+#: ../../research.rst:24
+msgid "Logistics Centers"
+msgstr "Logistics Centers (Centros de Logística)"
+
+#: ../../research.rst:28
+msgid ""
+"Allows the construction of Logistics Centers on bases, increasing it's "
+"material output."
+msgstr "Permite a construção de Centros de Logística em bases, aumentando a sua produção de materiais."
+
+#: ../../research.rst:31
+msgid "Laboratories"
+msgstr "Laboratories (Laboratórios)"
+
+#: ../../research.rst:32 ../../research.rst:39
+msgid "Requisites: Research Centers"
+msgstr "Requisitos: Research Centers (Centros de Investigação)"
+
+#: ../../research.rst:33
+msgid "Cost: 1800"
+msgstr "Custo: 1800"
+
+#: ../../research.rst:35
+msgid ""
+"Improves your universities by establishing laboratories, increasing "
+"science output by 50%."
+msgstr "Melhora as tuas universidades estabelecendo laboratórios, aumentando a produção de ciência em 50%."
+
+#: ../../research.rst:38
+msgid "Scolarships"
+msgstr "Scolarships (Bolsas de Estudo)"
+
+#: ../../research.rst:40
+msgid "Cost: 1200"
+msgstr "Custo: 1200"
+
+#: ../../research.rst:42
+msgid "Reduce scientists unit cost by 50%."
+msgstr "Reduz o custo de manutentação de cientistas em 50%."
+
+#: ../../research.rst:45
+msgid "Free Market"
+msgstr "Free Market (Mercado Livre)"
+
+#: ../../research.rst:46 ../../research.rst:53
+msgid "Requisites: Investment Centers"
+msgstr "Requisitos: Investment Centers (Centros de Investimento)"
+
+#: ../../research.rst:47
+msgid "Cost: 800"
+msgstr "Custo: 800"
+
+#: ../../research.rst:49
+msgid ""
+"Allows you to trade resources with any other player (provided they have "
+"researched this too)."
+msgstr "Permite-te trocar recursos com qualquer outro jogador (desde que eles também tenham investigado esta tecnologia)."
+
+#: ../../research.rst:52
+msgid "Venture Capital"
+msgstr "Venture Capital (Investimentos de Risco)"
+
+#: ../../research.rst:54 ../../research.rst:68
+msgid "Cost: 1500"
+msgstr "Custo: 1500"
+
+#: ../../research.rst:56
+msgid "Gives extra funding to your banks, increasing gold output by 100%."
+msgstr "Fornece financiamento extra aos teus bancos, aumentando a produção de ouro em 100%."
+
+#: ../../research.rst:59
+msgid "Refinery"
+msgstr "Refinery (Refinaria)"
+
+#: ../../research.rst:60 ../../research.rst:67
+msgid "Requisites: Logistics Centers"
+msgstr "Requisitos: Logistics Centers (Centros de Logística)"
+
+#: ../../research.rst:61
+msgid "Cost: 2000"
+msgstr "Custo: 2000"
+
+#: ../../research.rst:63
+msgid ""
+"Improves your factories with refineries, increasing material output by "
+"50%."
+msgstr "Melhora as tuas fábricas com refinarias, aumentando a produção de materiais em 50%."
+
+#: ../../research.rst:66
+msgid "Infrastructure"
+msgstr "Infrastructure (Infraestrutura)"
+
+#: ../../research.rst:70
+msgid ""
+"Provides better service and access to your bases, increasing "
+"unit/improvement production speed by 15%."
+msgstr "Fornece melhor serviço e acesso às tuas bases, aumentando a velocidade de produção de unidades/melhorias em 15%."
+
+#: ../../research.rst:73
+msgid "Research & Development"
+msgstr "Research & Development (Investigação e Desenvolvimento)"
+
+#: ../../research.rst:74
+msgid "Requisites: Laboratories"
+msgstr "Requisitos: Laboratories (Laboratórios)"
+
+#: ../../research.rst:75
+msgid "Cost: 4500"
+msgstr "Custo: 4500"
+
+#: ../../research.rst:77
+msgid ""
+"Allows the construction of R&D centers on bases, increasing it's science "
+"output."
+msgstr "Permite a construção de Centros de Investigação & Desenvolvimento em bases, aumentando a sua produção de ciência."
+
+#: ../../research.rst:80
+msgid "Renewable Energy"
+msgstr "Renewable Energy (Energias Renováveis)"
+
+#: ../../research.rst:81
+msgid "Requisites: Laboratories and Scolarships"
+msgstr "Requisitos: Laboratories (Laboratórios) e Scolarships (Bolsas de Estudo)"
+
+#: ../../research.rst:82
+msgid "Cost: 3750"
+msgstr "Custo: 3750"
+
+#: ../../research.rst:84
+msgid "Reduces improvement maintenance costs by 50%."
+msgstr "Reduz o custo de manutenção de melhorias em 50%."
+
+#: ../../research.rst:87
+msgid "Public Transport"
+msgstr "Public Transport (Transportes Públicos)"
+
+#: ../../research.rst:88
+msgid "Requisites: Investment Centers and Refinery"
+msgstr "Requisitos: Investment Centers (Centros de Investimento) e Refinery (Refinaria)"
+
+#: ../../research.rst:89
+msgid "Cost: 6250"
+msgstr "Custo: 6250"
+
+#: ../../research.rst:91
+msgid "Allows any unit to use public transports."
+msgstr "Permite que qualquer unidade use os transportes públicos."
+
+#: ../../research.rst:94
+msgid "Factory"
+msgstr "Factory (Fábrica)"
+
+#: ../../research.rst:95
+msgid "Requisites: Infrastructure"
+msgstr "Requisitos: Infrastructure (Infraestrutura)"
+
+#: ../../research.rst:96
+msgid "Cost: 7500"
+msgstr "Custo: 7500"
+
+#: ../../research.rst:98
+msgid ""
+"Allows the construction of factories on bases, increasing it's material "
+"output."
+msgstr "Permite a construção de fábricas em bases, aumentando a sua produção de materiais."
+
+#: ../../research.rst:101
+msgid "4-day Work Week"
+msgstr "4-day Work Week (Semana de 4 Dias)"
+
+#: ../../research.rst:102
+msgid "Requisites: Research & Development"
+msgstr "Requisitos: Research & Development (Investigação e Desenvolvimento)"
+
+#: ../../research.rst:103
+msgid "Cost: 7250"
+msgstr "Custo: 7250"
+
+#: ../../research.rst:105
+#, python-format
+msgid ""
+"Establishes a 4-day work week, improving science production by 50% in "
+"universities."
+msgstr "Estabelece uma semana de trabalho de 4 dias, melhorando a produção de ciência em 50% nas universidades."
+
+#: ../../research.rst:108
+msgid "Salary Boost"
+msgstr "Salary Boost (Aumentos Salariais)"
+
+#: ../../research.rst:109
+msgid "Requisites: Research & Development and Renewable Energy"
+msgstr "Requisitos: Research & Development (Investigação e Desenvolvimento) e Renewable Energy (Energias Renováveis)"
+
+#: ../../research.rst:110
+msgid "Cost: 5850"
+msgstr "Custo: 5850"
+
+#: ../../research.rst:112
+msgid "Allows you to double a bases's loyalty, but by doubling unit costs."
+msgstr "Permite-te duplicar a lealdade máxima de uma base, mas duplicando o seu custo de manutenção de unidades."
+
+#: ../../research.rst:115
+msgid "Stock Exchange"
+msgstr "Stock Exchange (Bolsa de Valores)"
+
+#: ../../research.rst:116
+msgid "Requisites: Free Market"
+msgstr "Requisitos: Free Market (Mercado Livre)"
+
+#: ../../research.rst:117
+msgid "Cost: 6900"
+msgstr "Custo: 6900"
+
+#: ../../research.rst:119
+msgid ""
+"Allows the construction of Stock Exchanges on bases, increasing it's gold"
+" output."
+msgstr "Permite a construção de Bolsas de Valores em bases, aumentando a sua produção de ouro."
+
+#: ../../research.rst:122
+msgid "Salary Cuts"
+msgstr "Salary Cuts (Cortes Salariais)"
+
+#: ../../research.rst:123
+msgid "Requisites: Venture Capital"
+msgstr "Requisitos: Venture Capital (Investimentos de Risco)"
+
+#: ../../research.rst:124
+msgid "Cost: 4750"
+msgstr "Custo: 4750"
+
+#: ../../research.rst:126
+msgid ""
+"Make all the base's units have no maintenance costs, but by reducing a "
+"base's loyalty to 25%."
+msgstr "Faz com que a base deixe de ter custos de manutenção de unidades, mas reduzindo a lealdade máxima da base para 25%."
+
+#: ../../research.rst:129
+msgid "Company Vehicle"
+msgstr "Company Vehicle (Veículo da Empresa)"
+
+#: ../../research.rst:130
+msgid "Requisites: Factory"
+msgstr "Requisitos: Factory (Fábrica)"
+
+#: ../../research.rst:131
+msgid "Cost: 8750"
+msgstr "Custo: 8750"
+
+#: ../../research.rst:133
+msgid "Double all public unit's movement speed (spies are not affected)."
+msgstr "Duplica a velocidade de movimento de todas as unidades públicas (os espiões não são afetados)."
+
+#: ../../research.rst:136
+msgid "Modern Materials"
+msgstr "Materials Modernos"
+
+#: ../../research.rst:137
+msgid "Requisites: Refinery"
+msgstr "Requisitos: Refinery (Refinaria)"
+
+#: ../../research.rst:138 ../../research.rst:152
+msgid "Cost: 9250"
+msgstr "Custo: 9250"
+
+#: ../../research.rst:140
+msgid ""
+"Introduces modern materials and processes in your factories, increasing "
+"material output by 25%."
+msgstr "Introduz materiais e processos modernos nas tuas fábricas, aumentando a produção de materiais em 25%."
+
+#: ../../research.rst:143
+msgid "Telecommunications"
+msgstr "Telecommunications (Telecomunicações)"
+
+#: ../../research.rst:144
+msgid "Requisites: 4-day Work Week and Modern Materials"
+msgstr "Requisitos: 4-day Work Week (Semana de 4 Dias) e Modern Materials (Materiais Modernos)"
+
+#: ../../research.rst:145
+msgid "Cost: 13500"
+msgstr "Custo: 13500"
+
+#: ../../research.rst:147
+msgid "Increases spies' view range by 2 tile."
+msgstr "Aumenta o alcance de visão dos espiões em 2 tiles."
+
+#: ../../research.rst:150
+msgid "Inflation"
+msgstr "Inflation (Inflação)"
+
+#: ../../research.rst:151 ../../research.rst:158
+msgid "Requisites: Salary Cuts"
+msgstr "Requisitos: Salary Cuts (Cortes Salariais)"
+
+#: ../../research.rst:154
+msgid "Get more government help to support costs. Bases gold output is doubled."
+msgstr "Obtém mais ajuda do governo para suportar custos. A produção de ouro das bases é duplicada."
+
+#: ../../research.rst:157
+msgid "Railroad Stocks"
+msgstr "Railroad Stocks (Ações na Ferrovia)"
+
+#: ../../research.rst:159
+msgid "Cost: 15950"
+msgstr "Custo: 15950"
+
+#: ../../research.rst:161
+msgid ""
+"Increase influence in public transports, allowing any wiretaps to reveal "
+"player identity."
+msgstr "Aumenta a tua influência nos transportes públicos, permitindo que qualquer escuta passe a revelar a identidade do jogador."
+
+#: ../../research.rst:164
+msgid "Space Program"
+msgstr "Space Program (Programa Espacial)"
+
+#: ../../research.rst:165
+msgid "Requisites: 4-day Work Week"
+msgstr "Requisitos: 4-day Work Week (Semana de 4 Dias)"
+
+#: ../../research.rst:166
+msgid "Cost: 12250"
+msgstr "Custo: 12250"
+
+#: ../../research.rst:168
+msgid ""
+"Allows the construction of Space Programs on bases, increasing it's "
+"science output."
+msgstr "Permite a construção de Programas Espaciais em bases, aumentando a sua produção de ciência."
+
+#: ../../research.rst:171
+msgid "Tax Evasion"
+msgstr "Tax Evasion (Evasão Fiscal)"
+
+#: ../../research.rst:172 ../../research.rst:179
+msgid "Requisites: Inflation"
+msgstr "Requisitos: Inflation (Inflação)"
+
+#: ../../research.rst:173 ../../research.rst:187
+msgid "Cost: 20000"
+msgstr "Custo: 20000"
+
+#: ../../research.rst:175
+#, python-format
+msgid ""
+"Converts 50% of the expended science directly into gold.\\n\\n(This tech "
+"is infinitely repeteable)"
+msgstr "Converte 50% da ciência gasta diretamente em ouro.\\n\\n(Esta tecnologia é repetível indefinidamente)"
+
+#: ../../research.rst:178
+msgid "Financial Rescue"
+msgstr "Financial Rescue (Resgate Financeiro)"
+
+#: ../../research.rst:180
+msgid "Cost: 17500"
+msgstr "Custo: 17500"
+
+#: ../../research.rst:182
+msgid "Reduces all unit maintenance costs by 50%."
+msgstr "Reduz o custo de manutenção de todas as unidades em 50%."
+
+#: ../../research.rst:185
+msgid "Automation"
+msgstr "Automation (Automação)"
+
+#: ../../research.rst:186 ../../research.rst:193
+msgid "Requisites: Modern Materials"
+msgstr "Requisitos: Modern Materials (Materiais Modernos)"
+
+#: ../../research.rst:189
+#, python-format
+msgid ""
+"Converts 25% of the expended science directly into materials.\\n\\n(This "
+"tech is infinitely repeteable)"
+msgstr "Converte 25% da ciência gasta diretamente em materiais.\\n\\n(Esta tecnologia é repetível indefinidamente)"
+
+#: ../../research.rst:192
+msgid "Video Surveillance"
+msgstr "Video Surveillance (Video-Vigilância)"
+
+#: ../../research.rst:194
+msgid "Cost: 37500"
+msgstr "Custo: 37500"
+
+#: ../../research.rst:196
+msgid "Lowers stolen materials by spies from 10% to 5%."
+msgstr "Reduz o roubo de materiais por espiões inimigos de 10% para 5%."
+

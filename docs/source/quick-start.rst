@@ -39,12 +39,12 @@ Lunar Gambit runs under two distinct phases:
 - **Strategy phase** - During this phase, the game behaves like a 4X. This is the mode you'll be playing on the 20-30 minutes session. In this mode, your focus should be in capturing bases and buildings, training units, building improvements, and researching technologies. You can move all units, but your spies cannot do sabotages. The server will process turns every second, making actions and movements take a few minutes to complete.
 - **Spy phase** - This phase will be turned on during breaks between sessions, running for 48 hours. During this phase, public unit movement, building units/improvements, and research are disabled (although your resources keep updating). Only the spies are enabled, and they can now perform sabotages. The server will process turns every minute, making actions and movements now potentially taking hours to complete.
 
-Durint each session/strategy phase, there will be a materials objective to reach. When a player reaches this goal between 20 to 30 minutes, the session will end early.
+During each session/strategy phase, there will be a materials objective to reach. When a player reaches this goal between 20 to 30 minutes, the session will end early.
 
 Units
 -----
 
-There are 4 types of units in the game You can train more public units in bases, but not spies. From left to right:
+There are 4 types of units in the game. You can train more public units in bases, but not spies. From left to right:
 
 .. image:: assets/units.png
    :alt: Units
@@ -87,7 +87,7 @@ There are three types of buildings, corresponding to each public unit:
 - **Bank**: Produces 1 money, created by bankers.
 - **Factory**: Produces 1 material, created by engineers.
 
-In the beginning, all bases and buildings are unoccupied. They'll look like gray buildings, and bases have labels on them. In particular, unoccupied bases can be quickly captured by moving in public units.
+In the beginning, all bases and buildings are unoccupied. They'll look like gray buildings, and bases have labels on them. In particular, unoccupied bases can be immediately captured by moving in public units.
 
 .. image:: assets/unoccupied.png
    :alt: Unoccupied base

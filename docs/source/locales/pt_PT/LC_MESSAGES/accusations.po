@@ -1,0 +1,269 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Ricardo Subtil
+# This file is distributed under the same license as the Lunar Gambit - Docs
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lunar Gambit - Docs 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 14:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pt_PT\n"
+"Language-Team: pt_PT <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../accusations.rst:-1 ../../accusations.rst:4
+msgid "Accusations"
+msgstr "Acusações"
+
+#: ../../accusations.rst:6
+msgid ""
+"This page explains how the accusation system works, which is crucial to "
+"defend yourself from enemy sabotages."
+msgstr "Esta página descreve como funciona o sistema de acusações, que é crucial para te defenderes de sabotagens inimigas."
+
+#: ../../accusations.rst:8
+msgid "Accusations are consulted on the Government tab on the top bar."
+msgstr "As acusações são consultadas no separador Government (Governo) na barra superior."
+
+#: ../../accusations.rst:11
+msgid "Starting an accusation"
+msgstr "Iniciar uma acusação"
+
+#: ../../accusations.rst:13
+msgid ""
+"You can start an accusation if someone has stolen from you. While you can"
+" start an accusation at any time, accusations will be solved on the "
+"beginning of the nest strategy phase."
+msgstr "Podes iniciar uma acusação se alguém te tiver roubado. Embora possas iniciar uma acusação a qualquer momento, as acusações serão resolvidas no início da próxima fase de estratégia."
+
+#: ../../accusations.rst:15
+msgid ""
+"To start an accusation, click on the **Make an accusation** button. "
+"Select the current sabotage and player you want to accuse. You'll need to"
+" convince the other players that you are right, otherwise you may have a "
+"penalization, so be careful!"
+msgstr "Para iniciar uma acusação, clica no botão **Make an accusation** (Fazer uma acusação). Seleciona a sabotagem atual e o jogador que queres acusar. Terás de convencer os outros jogadores de que estás certo, caso contrário poderás ser penalizado, por isso tem cuidado!"
+
+#: ../../accusations.rst:21
+msgid ""
+"There can only be 3 active accusations. If filled, you'll have to wait "
+"for the current accusations to be finished."
+msgstr "Só pode haver no máximo 3 acusações em curso. Se estiverem todas preenchidas, terás de esperar que alguma acusação atuais termine."
+
+#: ../../accusations.rst:24
+msgid "How it works"
+msgstr "Como funciona"
+
+#: ../../accusations.rst:26
+msgid ""
+"When a player accuses another one, a global process will start, where all"
+" players will be participating. There will be three elements:"
+msgstr "Quando um jogador acusa outro, um processo global é iniciado, onde todos os jogadores participarão. Haverá três elementos:"
+
+#: ../../accusations.rst:28
+msgid "**Accuser**: The player who started the accusation."
+msgstr "**Acusador**: O jogador que iniciou a acusação."
+
+#: ../../accusations.rst:29
+msgid "**Accused**: The player who is being accused."
+msgstr "**Acusado**: O jogador que está a ser acusado."
+
+#: ../../accusations.rst:30
+msgid "**Jury**: The remainign players, which will form a jury."
+msgstr "**Júri**: Os restantes jogadores, que formarão um júri."
+
+#: ../../accusations.rst:32
+msgid ""
+"Suppose for instance, that **Blue** had some gold stolen recently. After "
+"their personal investigation, they're pretty sure it was **Purple**, so "
+"they accuse it. The remaining players, **Yellow** and **Green** will "
+"become the jury who will ultimately determine if **Purple**'s guilty or "
+"not."
+msgstr "Assumindo, por exemplo, que alguém roubou ouro recentemente ao **Blue** (Azul). Após a sua investigação pessoal, este tem a certeza de que foi o **Purple** (Roxo), por isso decide acusá-lo. Os restantes jogadores, **Yellow** (Amarelo) e **Green** (Verde), formarão o júri que determinará se o **Purple** é realmente culpado ou não."
+
+#: ../../accusations.rst:34
+msgid ""
+"When an accusation begins, you can click the current accusation buttons "
+"to enter on the accusation screen. All the relevant info is displayed "
+"here: the accuser, the accused, the sabotage, and the current jury and "
+"their votes. There is also a dedicated chat that's visible to everyone "
+"and is only valid during the accusation, so players have a dedicated "
+"space to discuss the accusation. Lastly, on the right, there's the "
+"effects that will happen if the accusation goes in your side or not."
+msgstr "Quando uma acusação começa, podes clicar nos botões de acusações atuais para entrar no ecrã de acusação. Todas as informações relevantes são mostradas aqui: o acusador, o acusado, a sabotagem, o júri atual e os seus votos. Existe também um chat dedicado que é visível para todos e só é válido durante a acusação, para que os jogadores tenham um espaço dedicado para discutir. Por último, à direita, estão os efeitos que acontecerão se a acusação seguir a teu favor ou não."
+
+#: ../../accusations.rst:-1
+msgid "Accusation Screen"
+msgstr "Ecrã de Acusação"
+
+#: ../../accusations.rst:39
+msgid ""
+"Accusations are finished automatically when both juries have voted, or "
+"manually at the beginning of the nest strategy phase. The effects for the"
+" accusation will be publicly displayed on the government report panel."
+msgstr "As acusações terminam automaticamente quando ambos os júris votarem, ou manualmente no início da próxima fase de estratégia. Os efeitos da acusação serão exibidos publicamente no painel de relatório do governo."
+
+#: ../../accusations.rst:42
+msgid "Voting"
+msgstr "Votação"
+
+#: ../../accusations.rst:44
+msgid ""
+"The jury will have to decided whether to condemn or absolve the accused. "
+"To do so, they will have to vote. If you are part of the jury, you'll "
+"have the vote options enabled at the bottom of the accusation screen."
+msgstr "O júri terá de decidir se condena ou absolve o acusado. Para isso, terão de votar. Se fizeres parte do júri, terás as opções de voto disponíveis na parte inferior do ecrã de acusação."
+
+#: ../../accusations.rst:-1
+msgid "Accusation Vote"
+msgstr "Opções de Voto"
+
+#: ../../accusations.rst:49
+msgid ""
+"You have a big responsibility, because you will determine the accused and"
+" accuser's fate. Each jury can either vote \"guilty\", \"innocent\", or "
+"\"abstain\". If you don't vote before the accusation ends, you'll "
+"automatically vote \"abstain\"."
+msgstr "Tens uma grande responsabilidade nesta parte, porque determinarás o destino do acusado e do acusador. Cada júri pode votar \"guilty\" (culpado), \"innocent\" (inocente) ou \"abstain\" (abster-se). Se não votares antes do final da acusação, votarás automaticamente abstenção.
+
+#: ../../accusations.rst:51
+msgid "The final decision will depend on the votes of both juries:"
+msgstr "As decisões finais irão depender dos votos de ambos os júris:"
+
+#: ../../accusations.rst:53
+msgid "(🔴- voted \"guilty\", 🔵-voted \"innocent\", ⚫- abstain)"
+msgstr "(🔴- votou \"guilty\" (culpado), 🔵-votou \"innocent\" (inocente), ⚫- absteve-se)"
+
+#: ../../accusations.rst:55
+msgid "Vote Results"
+msgstr "Resultados da Votação"
+
+#: ../../accusations.rst:59
+msgid "Jury vote"
+msgstr "Voto do Júri"
+
+#: ../../accusations.rst:60
+msgid "Results"
+msgstr "Resultados"
+
+#: ../../accusations.rst:61
+msgid "⚫⚫"
+msgstr ""
+
+#: ../../accusations.rst:62
+msgid "Both juries have abstained. Nothing will happen."
+msgstr "Ambos os júris abstiveram-se. Não irá acontecer nada."
+
+#: ../../accusations.rst:63
+msgid "🔴⚫"
+msgstr ""
+
+#: ../../accusations.rst:64
+msgid "One jury voted \"guilty\", the other abstained. The accused is guilty."
+msgstr "Um júri votou \"guilty\" (culpado), o outro absteve-se. O acusado é culpado."
+
+#: ../../accusations.rst:65
+msgid "🔵⚫"
+msgstr ""
+
+#: ../../accusations.rst:66
+msgid "One jury voted \"innocent\", the other abstained. The accused is innocent."
+msgstr "Um júri votou \"innocent\" (inocente), o outro absteve-se. O acusado é inocente."
+
+#: ../../accusations.rst:67
+msgid "🔴🔴"
+msgstr ""
+
+#: ../../accusations.rst:68
+msgid "Both juries voted \"guilty\". The accused is guilty."
+msgstr "Ambos os júris votaram \"guilty\" (culpado). O acusado é culpado."
+
+#: ../../accusations.rst:69
+msgid "🔵🔵"
+msgstr ""
+
+#: ../../accusations.rst:70
+msgid "Both juries voted \"innocent\". The accused is innocent."
+msgstr "Ambos os júris votaram \"innocent\" (inocente). O acusado é inocente."
+
+#: ../../accusations.rst:71
+msgid "🔴🔵"
+msgstr ""
+
+#: ../../accusations.rst:72
+msgid ""
+"One jury voted \"guilty\", the other \"innocent\". There was no "
+"consensus, so nothing will happen."
+msgstr "Um júri votou \"guilty\" (culpado), o outro \"innocent\" (inocente). Não houve consenso, por isso não irá acontecer nada."
+
+#: ../../accusations.rst:74
+msgid ""
+"If the accused is declared guilty, it will have to pay to the accuser. If"
+" the accused is declared innocent, the accuser will have to pay to the "
+"accused. If the vote resulted in a stalemate, nothing will happen to "
+"them."
+msgstr "Se o acusado for declarado como culpado, terá de pagar ao acusador. Se o acusado for declarado inocente, o acusador terá de pagar ao acusado. Se a votação resultar num impasse, nada lhes acontecerá."
+
+#: ../../accusations.rst:76
+msgid ""
+"After an accusation is over, regardless of it's result, it can no longer "
+"be retried."
+msgstr "Depois duma acusação ter terminado, independentemente do seu resultado, não pode ser refeita."
+
+#: ../../accusations.rst:79
+msgid "As an accuser"
+msgstr "Como acusador"
+
+#: ../../accusations.rst:81
+msgid ""
+"You need to successfuly convince the jury that you're right. You should "
+"do so by providing evidence, and by discussing with the jury. If the jury"
+" determines the accused to be innocent, you'll have to pay them!"
+msgstr "Terás de convencer o júri de que estás certo. Deves fazê-lo fornecendo provas e discutindo com o júri. Se o júri determinar que o acusado é inocente, terás de lhe pagar!"
+
+#: ../../accusations.rst:84
+msgid "As an accused"
+msgstr "Como um acusado"
+
+#: ../../accusations.rst:86
+msgid ""
+"Whether you're trully innocent or not, you'll have to convince the jury "
+"to overthrow the accusation. You should do so by providing evidence, and "
+"by discussing with the jury. If the jury determines you to be guilty, "
+"you'll have to pay the accuser!"
+msgstr "Quer sejas realmente inocente ou não, terás de convencer o júri a derrubar a acusação. Deves fazê-lo fornecendo provas e discutindo com o júri. Se o júri determinar que és culpado, terás de pagar ao acusador!"
+
+#: ../../accusations.rst:89
+msgid "As a jury"
+msgstr "Como parte do júri"
+
+#: ../../accusations.rst:91
+msgid ""
+"The jury is the only element that will know the truth of their decision. "
+"Therefore, it's in your interested to get it right, and truly seek the "
+"truth. The accuser and accused will each be defending their position, so "
+"it's up to you to decide who's right."
+msgstr "O júri é o único elemento que saberá a verdade da sua decisão. Portanto, é do teu interesse acertar e realmente procurar a verdade. O acusador e o acusado defenderão cada um a sua posição, por isso cabe-te a ti decidir quem tem razão."
+
+#: ../../accusations.rst:93
+msgid ""
+"If your decision was correct, you'll receive a reward, but if you were "
+"wrong, you'll be penalized. If you abstain (either explicitly or by not "
+"voting at all), you won't receive any reward or penalty."
+msgstr "Se a tua decisão estiver correta, receberás uma recompensa, mas se estiveres errado, serás penalizado. Se te abstiveres (explicitamente ou não votando de todo), não receberás nenhuma recompensa ou penalização."
+
+#: ../../accusations.rst:95
+msgid ""
+"The accuser and accused won't know whether the jury decision was right, "
+"so feel free to use this information as you see fit."
+msgstr "O acusador e o acusado não saberão se a decisão do júri foi correta, por isso usa esta informação como achares melhor."
+

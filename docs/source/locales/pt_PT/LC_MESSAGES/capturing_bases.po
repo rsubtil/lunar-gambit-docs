@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Ricardo Subtil
+# This file is distributed under the same license as the Lunar Gambit - Docs
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lunar Gambit - Docs 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 14:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pt_PT\n"
+"Language-Team: pt_PT <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../capturing_bases.rst:2
+msgid "Capturing bases"
+msgstr "Capturar bases"
+
+#: ../../capturing_bases.rst:4
+msgid "This page explains how to capture enemy bases."
+msgstr "Esta página explica como capturar bases inimigas."
+
+#: ../../capturing_bases.rst:6
+msgid ""
+"The number of bases is limited, and players cannot build more. After the "
+"first or second session, all unoccupied bases in the map should have been"
+" claimed. To further expand, you'll have to capture other player's bases,"
+" which presents it's own challenge."
+msgstr "O número de bases disponíveis é limitado, e os jogadores não podem construir mais. Após a primeira ou segunda sessão, todas as bases desocupadas no mapa devem ter sido reclamadas. Para te expandires, terá de capturar bases de outros jogadores, que traz o seu próprio desafio."
+
+#: ../../capturing_bases.rst:9
+msgid ""
+"You can only capture enemy bases if that players has more than one base. "
+"If they only have one remaining, you''ll be unable to capture it."
+msgstr "Só podes capturar bases inimigas se esse jogador tiver mais do que uma base. Se este já só tiver uma base, não a podes capturar."
+
+#: ../../capturing_bases.rst:12
+msgid "Loyalty"
+msgstr "Lealdade"
+
+#: ../../capturing_bases.rst:14
+msgid ""
+"Each base has a loyalty value, ranging from 0 to 300, indicating how "
+"loyal the base is to it's owner. This works as the base's HP. If enemy "
+"public units storm in your base, your loyalty can begin to decrease, and "
+"once it reaches 0, the base switches ownership."
+msgstr "Cada base possui um valor de lealdade, entre 0 a 300, indicando o quão leal a base é ao seu jogador. Isto funciona como a vida da base. Se unidades públicas inimigas invadirem a tua base, a tua lealdade pode começar a diminuir, e assim que atingir 0, a base muda de jogador."
+
+#: ../../capturing_bases.rst:16
+msgid ""
+"Bases produce 1 loyalty per turn, and this value is increased by 1 for "
+"each public unit in your base's border. This means that if you have 3 "
+"public units in a base, it will produce 4 loyalty per turn. Enemy units "
+"will each decrease this loyalty by 1. Here are some scenarios"
+msgstr "As bases produzem 1 de lealdade por turno, e este valor aumenta por cada unidade pública na fronteira da tua base. Isto significa que se tiveres 3 unidades públicas numa base, ela produzirá 4 lealdade por turno. Unidades inimigas irão diminuir esta lealdade por 1. Aqui estão alguns cenários a demonstrar melhor"
+
+#: ../../capturing_bases.rst:18
+msgid ""
+"``(1 base loyalty) + 0 friendly units - 1 enemy units`` = **0**. The "
+"base's loyalty will remain unchanged."
+msgstr "(1 de lealdade base) + 0 unidades próprias - 1 unidade inimiga = 0. A lealdade da base permanecerá inalterada."
+
+#: ../../capturing_bases.rst:-1
+msgid "Base loyalty (neutral)"
+msgstr ""
+
+#: ../../capturing_bases.rst:23
+msgid ""
+"``(1 base loyalty) + 0 friendly units - 3 enemy units`` = **-2**. The "
+"base's loyalty is decreasing 2 by turn. If the base's loyalty is at it's "
+"maximum (300), this base will change ownership in 2m30s."
+msgstr "(1 de lealdade base) + 0 unidades próprias - 3 unidades inimigas = -2. A lealdade da base está a diminuir 2 por turno. Se a lealdade da base estiver no máximo (300), esta base mudará de jogador em 2m30s."
+
+#: ../../capturing_bases.rst:-1
+msgid "Base loyalty (losing)"
+msgstr ""
+
+#: ../../capturing_bases.rst:28
+msgid ""
+"``(1 base loyalty) + 3 friendly units - 3 enemy units`` = **1**. The "
+"base's loyalty is increasing by 1 per turn. It will slowly recover from "
+"this attack."
+msgstr "(1 de lealdade base) + 3 unidades próprias - 3 unidades inimigas = 1. A lealdade da base está a aumentar 1 por turno. Esta irá lentamente recuperar deste ataque."
+
+#: ../../capturing_bases.rst:-1
+msgid "Base loyalty (recovering)"
+msgstr ""
+
+#: ../../capturing_bases.rst:33
+msgid ""
+"``(1 base loyalty) + 3 friendly units - 0 enemy units`` = **4**. The "
+"base's loyalty is increasing by 4 per turn. It will quickly recover from "
+"this attack."
+msgstr "(1 de lealdade base) + 3 unidades próprias - 0 unidades inimigas = 4. A lealdade da base está a aumentar 4 por turno. Esta irá rapidamente recuperar deste ataque."
+
+#: ../../capturing_bases.rst:-1
+msgid "Base loyalty (good)"
+msgstr ""
+
+#: ../../capturing_bases.rst:40
+msgid "Multiple players"
+msgstr "Múltiplos jogadores"
+
+#: ../../capturing_bases.rst:42
+msgid ""
+"Multiple players can attack a base. However, the first player to have "
+"moved units there will claim ownership if the base switches. This way, "
+"you can help players capture bases without stealing the base. If the "
+"original attacker leaves the base, then another player will be picked as "
+"the new claimer."
+msgstr "Vários jogadores podem atacar uma base. No entanto, o primeiro jogador a mover unidades para lá irá reclamar a base se esta mudar de jogador. Desta forma, podes ajudar jogadores a capturar bases sem lhes roubares a base. Se o atacante original sair da base, outro jogador será escolhido como o novo futuro proprietário."
+
+#: ../../capturing_bases.rst:44
+msgid "The current claimer is shown behind the base's loyalty bar."
+msgstr "O jogador que irá reclamar a base é mostrado debaixo da barra de lealdade da base."
+
+#: ../../capturing_bases.rst:-1
+msgid "Base loyalty (claimer)"
+msgstr ""
+
+#: ../../capturing_bases.rst:50
+msgid ""
+"You cannot help a player defend a base directly. You may help them "
+"indirectly through trading, or by occupying spots in the maps with your "
+"public units, since public units cannot move through other public units."
+msgstr "Não é possível ajudares um jogador a defender uma base diretamente. Podes ajudá-lo indiretamente através de trocas, ou ocupando espaços no mapa com as tuas unidades públicas, uma vez que unidades públicas não podem mover-se através de outras unidades públicas."
+
+#: ../../capturing_bases.rst:54
+msgid "Loyalty improvements"
+msgstr "Melhorias de lealdade"
+
+#: ../../capturing_bases.rst:56
+msgid ""
+"There are two improvements you can establish in your base that affect "
+"your loyalty. These are useful if you're expecting (or not) an attack."
+msgstr "Existem duas melhorias que podes estabelecer na tua base que afetam a tua lealdade. Estas são úteis se estiveres à espera (ou não) de um ataque."
+
+#: ../../capturing_bases.rst:58
+msgid ""
+"**Salary Boost** - This will double the base unit's maintenance cost, but"
+" will double the maximum loyalty, slowing down attacks. Note that once "
+"you establish this, your base's current loyalty will stay the same, so "
+"you'll need to wait for it to recover to the new limit to truly benefit "
+"from this."
+msgstr "**Salary Boost** (Aumentos Salariais) - Isto irá duplicar o custo de manutenção de unidades da base, mas irá duplicar a lealdade máxima, atrasando ataques. Nota que uma vez que estabeleças isto, a lealdade atual da tua base irá permanecer a mesma, por isso terás de esperar que ela recupere para o novo limite para realmente beneficiar disto."
+
+#: ../../capturing_bases.rst:59
+msgid ""
+"**Salary Cuts** - This will completely cut all base unit's maintenance "
+"cost, but will reduce your maximum loyalty to 75%. While reducing in "
+"costs, if players attack this base it will be severly weakened. Removing "
+"this improvement will restore your maximum loyalty to 100%, but will not "
+"restore your current loyalty, which will have to recover."
+msgstr "**Salary Cuts** (Cortes Salariais) - Isto irá cortar completamente o custo de manutenção de unidades da base, mas irá reduzir a tua lealdade máxima para 75%. Embora reduza muito os custos, se algum jogador atacar esta base, esta estará severamente enfraquecida. Remover esta melhoria irá restaurar a tua lealdade máxima para 100%, mas não irá restaurar a tua lealdade atual, que terá de recuperar."
+
+#: ../../capturing_bases.rst:61
+msgid "These are mutually exclusive, but you can remove improvements at any time."
+msgstr "Estas melhorias são mutuamente exclusivas, mas podes remover melhorias a qualquer momento."
+
