@@ -8,7 +8,7 @@ Download
 
 Lunar Gambit is a modification done to the `freeciv21 <https://github.com/longturn/freeciv21>`_ project by `Longturn <https://longturn.net/>`_, which in turn is a modification from the original `freeciv <https://github.com/freeciv>`_ project. It's source code is available publicly under a GPL3 license at `freeciv21-spaceRace <https://github.com/rsubtil/freeciv21-spaceRace>`_.
 
-To download the project, head to the `Releases <https://github.com/rsubtil/lunar-gambit-docs/releases>`_ tab and download the latest release. Currently, there are builds for Windows, macOS (Intel-x86 only), and Linux (Ubuntu ``.deb`` package).
+To download the project, head to the `Releases <https://github.com/rsubtil/freeciv21-spaceRace/releases>`_ tab and download the latest release. Currently, there are builds for Windows, macOS (Intel-x86 only), and Linux (Ubuntu ``.deb`` package).
 
 Joining in
 ----------
